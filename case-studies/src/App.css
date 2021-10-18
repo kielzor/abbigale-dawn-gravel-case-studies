@@ -1,0 +1,11 @@
+.App {
+  /* text-align: center; */
+  display: flex;
+  justify-content: center;
+  background-color: #000000;
+  min-height: 100vh;
+}
+
+.main-section-width-control {
+  width: 70%;
+}

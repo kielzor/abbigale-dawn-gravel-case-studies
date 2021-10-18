@@ -1,0 +1,22 @@
+.header-container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo,
+.blank-header-spacing-div {
+  width: 3.5vw;
+}
+
+.header-text {
+  color: white;
+  font-weight: 300;
+  margin: 0;
+  padding: 5vh;
+  font-size: 2vw;
+  border-bottom: 2px solid #bc5a00;
+  width: 22vw;
+  font-family: "Merriweather";
+}
