@@ -1,0 +1,61 @@
+.main-page-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.quote-container {
+  margin-top: 5vh;
+  width: 100%;
+}
+
+.design-diamonds-container {
+  width: 90%;
+  margin-top: -10vh;
+}
+
+.main-section {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 4vh;
+}
+
+.projects-container {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cs-cover {
+  width: 56%;
+  cursor: pointer;
+}
+
+.projects-header {
+  padding-bottom: 2vh;
+  border-bottom: 3px solid #bc5a00;
+  width: 50%;
+  text-align: center;
+  font-family: "Merriweather";
+}
+
+.about-me-container {
+  padding-right: 5vw;
+}
+
+.projects-text {
+  font-family: "Lora";
+}
+
+.resume-header {
+  border-bottom: 3px solid #bc5a00;
+  padding-bottom: 2vh;
+  margin-top: 8vh;
+  width: 8vw;
+  text-align: center;
+}
+
+.resume {
+  margin: 5vh 0 20vh 0;
+}

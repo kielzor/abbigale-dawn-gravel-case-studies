@@ -1,0 +1,17 @@
+.contact-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  font-family: "Lora";
+}
+
+.media-links-container {
+  display: flex;
+  align-items: flex-end;
+}
+
+.media-links {
+  cursor: pointer;
+  margin: 0 0.5vw;
+  width: 2.5vw;
+}
