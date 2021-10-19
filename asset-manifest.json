@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/abbigale-dawn-gravel-case-studies/static/css/main.8a6e990c.chunk.css",
+    "main.js": "/abbigale-dawn-gravel-case-studies/static/js/main.6fb50232.chunk.js",
+    "main.js.map": "/abbigale-dawn-gravel-case-studies/static/js/main.6fb50232.chunk.js.map",
+    "runtime-main.js": "/abbigale-dawn-gravel-case-studies/static/js/runtime-main.048225be.js",
+    "runtime-main.js.map": "/abbigale-dawn-gravel-case-studies/static/js/runtime-main.048225be.js.map",
+    "static/js/2.d65b7c63.chunk.js": "/abbigale-dawn-gravel-case-studies/static/js/2.d65b7c63.chunk.js",
+    "static/js/2.d65b7c63.chunk.js.map": "/abbigale-dawn-gravel-case-studies/static/js/2.d65b7c63.chunk.js.map",
+    "static/js/3.d51bba19.chunk.js": "/abbigale-dawn-gravel-case-studies/static/js/3.d51bba19.chunk.js",
+    "static/js/3.d51bba19.chunk.js.map": "/abbigale-dawn-gravel-case-studies/static/js/3.d51bba19.chunk.js.map",
+    "index.html": "/abbigale-dawn-gravel-case-studies/index.html",
+    "static/css/main.8a6e990c.chunk.css.map": "/abbigale-dawn-gravel-case-studies/static/css/main.8a6e990c.chunk.css.map",
+    "static/js/2.d65b7c63.chunk.js.LICENSE.txt": "/abbigale-dawn-gravel-case-studies/static/js/2.d65b7c63.chunk.js.LICENSE.txt",
+    "static/media/abbigale-gravel-resume.3640700c.png": "/abbigale-dawn-gravel-case-studies/static/media/abbigale-gravel-resume.3640700c.png",
+    "static/media/bloom-cs-cover.889a784b.png": "/abbigale-dawn-gravel-case-studies/static/media/bloom-cs-cover.889a784b.png",
+    "static/media/design-diamonds.3acdb851.png": "/abbigale-dawn-gravel-case-studies/static/media/design-diamonds.3acdb851.png",
+    "static/media/inkbook-cs-cover.2410e721.png": "/abbigale-dawn-gravel-case-studies/static/media/inkbook-cs-cover.2410e721.png",
+    "static/media/nasa-cs-cover.d69fa69e.png": "/abbigale-dawn-gravel-case-studies/static/media/nasa-cs-cover.d69fa69e.png",
+    "static/media/App.css": "/abbigale-dawn-gravel-case-studies/static/media/portfolio-nasa.f2c5d402.png",
+    "static/media/quote-container.df33b06b.png": "/abbigale-dawn-gravel-case-studies/static/media/quote-container.df33b06b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.048225be.js",
+    "static/js/2.d65b7c63.chunk.js",
+    "static/css/main.8a6e990c.chunk.css",
+    "static/js/main.6fb50232.chunk.js"
+  ]
+}
